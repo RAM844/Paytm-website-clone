@@ -20,7 +20,7 @@
 
 
 ## Links
-- [live demo](https://ubiquitous-gumption-a5f5c4.netlify.app/)
+- [live demo](https://paytm-clone-by-shriram.netlify.app/)
 - [source](https://github.com/RAM844/Paytm-website-clone)
 
 
